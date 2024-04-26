@@ -1,4 +1,4 @@
-# Student-Result-Analysis---Python-Project
+# Student-Result-Analysis-Python Project
 
 ●	Developed a Python-based analysis of a 30,641-record dataset to explore the impact of socio-economic and educational factors on student performance.
 ●	Employed Pandas for data preprocessing, and Matplotlib/Seaborn for insightful visualizations of gender distribution and parental education effects on scores.
